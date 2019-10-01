@@ -66,7 +66,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color:  #4b71b4;
 }
 
 .dev-icons {
@@ -74,7 +74,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: rgb(45, 90, 173);
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -84,7 +84,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color:  #4b71b4;
 }
 
 @media (min-width: 992px) {
